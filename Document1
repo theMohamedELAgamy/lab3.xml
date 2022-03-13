@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="contacts_filtering.xsl"?>
+<!DOCTYPE contacts [
+<!ELEMENT contacts (employee)+>
+<!ELEMENT employee (name , phones , addresses , email)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT phones (phone)+>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT addresses (street , building , number , city , country , region)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT building (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST phone phonetype (mobile | home | work) "mobile">
+]>
+<contacts>
+      
+      
+    
+      
+
+</contacts>

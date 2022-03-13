@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="contacts_filtering.xsl"?>
+<contacts>
+   <employee>
+            <name>Mohamed Nabil</name>
+            <phones>
+                <phone phonetype="mobile">01276316958</phone>
+                
+            </phones>
+            <addresses>
+                <street>elzuhor</street>
+                <building>elnour</building>
+                <number>2</number>
+                <city>Alexandria</city>
+                <country>egypt</country>
+                <region>Africa</region>
+
+            </addresses>
+            <email>Mohamed@gmail.com</email>
+    </employee>
+    <employee>
+            <name>Mohamed ahmed</name>
+            <phones>
+                <phone phonetype="work">01276316958</phone>
+                
+            </phones>
+            <addresses>
+                <street>elzuhor</street>
+                <building>elnour</building>
+                <number>1</number>
+                <city>Alexandria</city>
+                <country>egypt</country>
+                <region>Africa</region>
+
+            </addresses>
+            <email>Mohamed@gmail.com</email>
+    </employee>
+    <employee>
+            <name>ali Nabil</name>
+            <phones>
+                <phone phonetype="home">01276316958</phone>
+                
+            </phones>
+            <addresses>
+                <street>elzuhor</street>
+                <building>elnour</building>
+                <number>3</number>
+                <city>Alexandria</city>
+                <country>egypt</country>
+                <region>Africa</region>
+
+            </addresses>
+            <email>Mohamed@gmail.com</email>
+    </employee>
+
+</contacts>
